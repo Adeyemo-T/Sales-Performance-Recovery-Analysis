@@ -1,6 +1,4 @@
- Analyzing Year-on-Year Sales Performance to Drive Revenue Recovery
-
-## 1. Project Background
+## Project Background
 
 The company is experiencing a significant downturn, with both **Revenue and Profit falling over 62%** year-over-year. This dramatic decline necessitates an urgent analysis to understand the core drivers and identify immediate opportunities for strategic resource reallocation.
 
@@ -11,27 +9,20 @@ Insights and recommendations are provided on the following key areas:
 * **Product Line Prioritization:** Analysis of top-performing products to inform inventory and marketing focus.
 * **Regional Sales Disparity:** Assessment of sales performance by market to optimize resource allocation.
 
-***
+ **Interactive Dashboard:** The full Power BI Sales Performance dashboard can be accessed [here](LINK_TO_DASHBOARD).
 
-### 🔗 Technical Deliverables
-
-* **Interactive Dashboard:** The full Power BI Sales Performance dashboard can be accessed [here](LINK_TO_DASHBOARD).
-* **Analysis Code:** The data transformation steps utilized in Power Query can be viewed in the source file [here](LINK_TO_CODE_FILE).
-
-## 2. Data Structure & Initial Checks
-
-### 📊 Data Overview
+## Data Structure & Initial Checks
+### Data Overview
 The analysis was conducted using a single, denormalized **Excel dataset** sourced from the company's historical transaction records. The file contained over **25 variables** related to order details, product information, customer geography, and sales figures.
-
-### 🧹 Data Cleaning and Preparation
+### Data Cleaning and Preparation
 The entire data cleaning and transformation process was executed using **Power Query (M Language)** to ensure data quality and integrity before analysis.
 
 * **Header Promotion:** The first row was promoted to professional column headers (e.g., `ORDERNUMBER`, `PRODUCTLINE`).
 * **Data Type Management:** Corrected data types for calculations (e.g., converted currency fields like `SALES` and `MSRP` to decimal/float format).
 * **Feature Engineering:** Calculated the essential **Profit** column and the **Year-on-Year Change (YOY)** metrics used across the dashboard.
+  
 
 
-*(**Action:** Insert an image of the Power Query Editor or a data sample here.)*
 
 ## 3. Executive Summary
 
