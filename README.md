@@ -9,7 +9,7 @@ Insights and recommendations are provided on the following key areas:
 * **Product Line Prioritization:** Analysis of top-performing products to inform inventory and marketing focus.
 * **Regional Sales Disparity:** Assessment of sales performance by market to optimize resource allocation.
 
- **Interactive Dashboard:** The full Power BI Sales Performance dashboard can be accessed [here](LINK_TO_DASHBOARD).
+ **Interactive Dashboard:** The full Power BI Sales Performance dashboard can be accessed [here](https://app.powerbi.com/links/_dOH9dcteQ?ctid=9db3791d-d5d0-4f91-b691-e83929715f73&pbi_source=linkShare).
 
 ## Data Structure & Initial Checks
 ### Data Overview
@@ -21,11 +21,6 @@ The entire data cleaning and transformation process was executed using **Power Q
 * **Data Type Management:** Corrected data types for calculations (e.g., converted currency fields like `SALES` and `MSRP` to decimal/float format).
 * **Feature Engineering:** Calculated the essential **Profit** column and the **Year-on-Year Change (YOY)** metrics used across the dashboard.
 ![Image](https://github.com/user-attachments/assets/88ca3636-2f2e-4855-a85a-3512a236de4d)
-
-
-  
-
-
 
 ## Executive Summary
 
@@ -42,16 +37,13 @@ The overview highlights the critical top-level metrics driving the business narr
 * **Top Performers:** The top three product lines—**Classic Cars, Vintage Cars, and Motorcycles**—are responsible for the majority of the total sales volume.
 * **Regional Disparity:** The **EMEA and NA regions** are the dominant markets, contrasting with critically low sales in the **APAC and Japan regions**.
 
-![Top Performing Product Lines and Regional Sales Distribution Map](YOUR_IMAGE_LINK_FOR_PRODUCT_AND_REGIONAL_CHARTS_HERE)
-*(**Action:** Insert the image link for the **Top Performing Product Lines bar chart** and the **Sales Performance Among Countries map**.)*
+![Image](https://github.com/user-attachments/assets/dbba27b8-2bde-4eb8-b2ab-8a6f82411bd8)
 
 ### Pricing and Customer Deep Dive
 
 * **Pricing Strategy:** The analysis shows that the **Average Price Each** consistently sits **below the Average MSRP**, suggesting a reliance on discounting or volume sales to move products.
 * **Key Customers:** A small number of customers, particularly **Euro Shopping Channel**, account for a disproportionately large share of the total sales.
-
-![Pricing and Key Customer Charts](YOUR_IMAGE_LINK_FOR_PRICING_AND_CUSTOMER_CHARTS_HERE)
-*(**Action:** Insert the image link for the **"Who's Bringing In The Most Sales?" bar chart** and the **"Are We Selling Below MSRP?" chart**.)*
+![Image](https://github.com/user-attachments/assets/ef08a30b-f89f-4b97-a9bb-d15d891cfb26)
 
 ## Business Recommendations
 
