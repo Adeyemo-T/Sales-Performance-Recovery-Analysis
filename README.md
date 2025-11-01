@@ -20,24 +20,22 @@ The entire data cleaning and transformation process was executed using **Power Q
 * **Header Promotion:** The first row was promoted to professional column headers (e.g., `ORDERNUMBER`, `PRODUCTLINE`).
 * **Data Type Management:** Corrected data types for calculations (e.g., converted currency fields like `SALES` and `MSRP` to decimal/float format).
 * **Feature Engineering:** Calculated the essential **Profit** column and the **Year-on-Year Change (YOY)** metrics used across the dashboard.
+![Image](https://github.com/user-attachments/assets/88ca3636-2f2e-4855-a85a-3512a236de4d)
+
+
   
 
 
 
-## 3. Executive Summary
+## Executive Summary
 
 The company is experiencing a significant downturn, with **Revenue and Profit falling over 62%** year-over-year, alongside a 62.3% drop in total units sold. This decline, while concerning, appears to have bottomed out in April, showing signs of a strong recovery in May. Strategic focus must now shift to capitalizing on the May recovery trend and addressing the critical regional sales disparities.
-
-***
-
+![Image](https://github.com/user-attachments/assets/08d9cb78-49a6-4514-837d-6debb8d0d1cc)
 ### Overview of Key Performance Indicators (KPIs)
 
 The overview highlights the critical top-level metrics driving the business narrative, showcasing the severity of the year-over-year decline but also the signs of a recent recovery in the monthly trend.
 
-![Clinical Insights Overview - Key Metrics](YOUR_IMAGE_LINK_FOR_KPI_DASHBOARD_HERE)
-*(**Action:** Insert the image link for the top-row KPI cards and the **Tracking Revenue Across Months line chart**.)*
-
-***
+![Image](https://github.com/user-attachments/assets/5cc62baf-76d0-488e-8f33-bcf81dbf80f8)
 
 ### Sales Trend and Market Performance
 
@@ -47,8 +45,6 @@ The overview highlights the critical top-level metrics driving the business narr
 ![Top Performing Product Lines and Regional Sales Distribution Map](YOUR_IMAGE_LINK_FOR_PRODUCT_AND_REGIONAL_CHARTS_HERE)
 *(**Action:** Insert the image link for the **Top Performing Product Lines bar chart** and the **Sales Performance Among Countries map**.)*
 
-***
-
 ### Pricing and Customer Deep Dive
 
 * **Pricing Strategy:** The analysis shows that the **Average Price Each** consistently sits **below the Average MSRP**, suggesting a reliance on discounting or volume sales to move products.
@@ -57,7 +53,7 @@ The overview highlights the critical top-level metrics driving the business narr
 ![Pricing and Key Customer Charts](YOUR_IMAGE_LINK_FOR_PRICING_AND_CUSTOMER_CHARTS_HERE)
 *(**Action:** Insert the image link for the **"Who's Bringing In The Most Sales?" bar chart** and the **"Are We Selling Below MSRP?" chart**.)*
 
-## 4. Business Recommendations
+## Business Recommendations
 
 Based on the uncovered insights, the following actions are recommended to stabilize performance, capitalize on the May recovery, and drive future revenue:
 
